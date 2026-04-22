@@ -3,7 +3,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=900&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+make+computers+understand+imagination.;Software+Engineering+Student;Full+Stack+Developer;Building+the+Future">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=900&size=40&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+make+computers+understand+imagination.;Software+Engineering+Student;Full+Stack+Developer;Building+the+Future">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=900&size=40&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;Building+the+Future">
     <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=900&size=40&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+make+computers+understand+imagination.;Software+Engineering+Student;Full+Stack+Developer;Building+the+Future" alt="Typing SVG" />
   </picture>
 </p>
