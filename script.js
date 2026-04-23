@@ -20,7 +20,7 @@ const projects = [
         title: "Fast Afaan Oromoo Facebook Scraper",
         description: "A modular, high-speed, and intelligent Facebook scraper designed specifically for extracting Afaan Oromoo content.",
         technologies: ["HTML5", "CSS3", "JavaScript","Python", "Flask","Playwright"],
-        github: "https://github.com/oliftadele/weather-dashboard",
+        github: "https://github.com/oliftadele/Facebook-post-scrapper-for-Afan-Oromo",
         live: "#",
         image: "https://8upload.com/image/2c6a44023490a826/banner_.png"
     },
