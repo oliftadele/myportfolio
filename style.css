@@ -472,13 +472,9 @@ body {
     width: 85%;
     max-width: 320px;
     height: 100vh;
-    background-color: rgba(228, 228, 228, 0.9);
-    background-image: url('background.jpeg');
-    background-size: auto;
-    background-repeat: repeat;
-    background-blend-mode: overlay;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    background: rgba(228, 228, 228, 0.8);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     border-left: 1px solid var(--border);
     padding: 6rem 2.5rem;
     transition: right 0.5s cubic-bezier(0.16, 1, 0.3, 1);
