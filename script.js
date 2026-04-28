@@ -1,6 +1,14 @@
 // Projects Data
 const projects = [
     {
+        title: "Fast Afaan Oromoo Facebook Scraper",
+        description: "A modular, high-speed, and intelligent Facebook scraper designed specifically for extracting Afaan Oromoo content.",
+        technologies: ["HTML5", "CSS3", "JavaScript","Python", "Flask","Playwright"],
+        github: "https://github.com/oliftadele/weather-dashboard",
+        live: "#",
+        image: "https://8upload.com/image/2c6a44023490a826/banner_.png"
+    },
+    {
         title: "Mindscape – Self Reflection Platform",
         description: "A self-reflection web app that lets users rate their life satisfaction and receive personalized advice, resource recommendations, and therapy suggestions in Addis Ababa.",
         technologies: ["HTML5", "CSS3", "JavaScript"],
@@ -15,14 +23,6 @@ const projects = [
         github: "https://github.com/oliftadele/ODA-SBS---Oda-Special-Boarding-School-Website",
         live: "#",
         image: "https://8upload.com/image/41370e45f1a46e3f/oda_web.png"
-    },
-    {
-        title: "Fast Afaan Oromoo Facebook Scraper",
-        description: "A modular, high-speed, and intelligent Facebook scraper designed specifically for extracting Afaan Oromoo content.",
-        technologies: ["HTML5", "CSS3", "JavaScript","Python", "Flask","Playwright"],
-        github: "https://github.com/oliftadele/Facebook-post-scrapper-for-Afan-Oromo",
-        live: "#",
-        image: "https://8upload.com/image/2c6a44023490a826/banner_.png"
     },
     {
         title: "Anonymous Confession & Advice Wall",
